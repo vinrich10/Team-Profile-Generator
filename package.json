@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/vinrich10/employee-summary#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "inquirer": "^7.0.0"
   },
   "devDependencies": {
