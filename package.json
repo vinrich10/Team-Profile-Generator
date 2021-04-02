@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinrich10/employee-summary.git"
+    "url": "git+https://github.com/vinrich10/Team-Profile-Generator"
   },
   "keywords": [
     "employee",
@@ -22,9 +22,9 @@
   "author": "Vincent Richitelli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinrich10/employee-summary/issues"
+    "url": "https://github.com/vinrich10/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/vinrich10/employee-summary#readme",
+  "homepage": "https://github.com/vinrich10/Team-Profile-Generator#readme",
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^7.0.0"
