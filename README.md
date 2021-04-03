@@ -1,7 +1,8 @@
 # Team-Profile-Generator
 
 # Walkthrough
-Link to the walkthrough video: https://drive.google.com/file/d/1EzB67Juy7p0jVh6_CXmi9Q5MyO_xXatD/view?usp=sharing
+Link to the walkthrough video:
+https://drive.google.com/file/d/1yoCJ59-SgZ9l7520ZW906a-5abcpjFG1/view?usp=sharing
 
 
 # Description
